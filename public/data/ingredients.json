@@ -1,0 +1,21 @@
+{
+  "ingredients" : [
+    {
+      "name": "Avocado",
+      "price": 4
+    },
+    {
+      "name": "Onions",
+      "price": 5
+    },
+    {
+      "name": "Berries",
+      "price": 6
+    },
+    {
+      "name": "Parsley",
+      "price": 7
+    }
+	   
+  ]
+}
